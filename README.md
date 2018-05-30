@@ -14,9 +14,10 @@ Walk through python codes of sample image/video bioinformatic projects.
 Make you fall in love with Python!
 
 ## Background Information
-  1. High-throughput Microscopy: [Jan Ellenberg's lecture](https://www.youtube.com/watch?v=QrrCjC1eQaI&t=6s)
-  2. Axio Zeiss Microscope tutorial: [video links](https://www.youtube.com/watch?v=_S7Tf3J0ylg&t=1234s)
-  3. TIMING 2 project: [project links](https://github.com/troylhy1991/TIMING2)
+  1. Experimental methods in systems biology: [Coursera Links](https://www.coursera.org/learn/experimental-methods)
+  2. High-throughput Microscopy: [Jan Ellenberg's lecture](https://www.youtube.com/watch?v=QrrCjC1eQaI&t=6s)
+  3. Axio Zeiss Microscope tutorial: [video links](https://www.youtube.com/watch?v=_S7Tf3J0ylg&t=1234s)
+  4. TIMING 2 project: [project links](https://github.com/troylhy1991/TIMING2)
 
 ## Topics and Slides
   1. Introduction to Python, Anaconda, Spyder and basic python syntax [Slides]() 
@@ -38,5 +39,7 @@ Make you fall in love with Python!
   9. Multi-threading with Python: multiprocessing [slides]()
   
   10. Design of TIMING-pipeline and TIMING-viewer [slides]()
+  
+  11. Useful Links [Python Programming](https://pythonprogramming.net/); [Visualizae Python](http://pythontutor.com/)
 
 
