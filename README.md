@@ -20,13 +20,13 @@ Make you fall in love with Python!
   4. TIMING 2 project: [project links](https://github.com/troylhy1991/TIMING2)
 
 ## Topics and Slides
-  1. Introduction to Python, Anaconda, Spyder and basic python syntax [Slides]()
+  1. Introduction to Python, Anaconda, Spyder and basic python syntax.
        
        a. Python Official Site [links](https://www.python.org/)
        
-       b. Anaconda [Anaconda Home Page](), [11 mins video tutorial](https://www.youtube.com/watch?v=YJC6ldI3hWk)
+       b. Anaconda [Download](https://www.anaconda.com/download/), [11 mins video tutorial](https://www.youtube.com/watch?v=YJC6ldI3hWk)
        
-       c. Basic Syntax [Links](https://www.learnpython.org/)
+       c. Basic Python Syntax [Links](https://www.learnpython.org/)
        
        d. Visualize python code step by step [PythonTutor](http://pythontutor.com/)
 
