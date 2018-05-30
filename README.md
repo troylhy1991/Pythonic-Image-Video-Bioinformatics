@@ -3,6 +3,7 @@ Workshop on python basics and its application to biological image or video analy
 
 ## Time
 Summer, 2018
+
 Wednesday, 2:30 PM - 4:00 PM
 
 ## Goal
@@ -20,9 +21,9 @@ Make you fall in love with Python!
 ## Topics and Slides
   1. Introduction to Python, Anaconda, Spyder and basic python syntax [Slides]() 
 
-  2. Common Python packages, os, system, numpy and scipy [Slides]()
+  2. Common Python packages: os, system, numpy and scipy [Slides]()
   
-  3. Efficient image processing with Python, scikit-image, opencv or SimpleITK? [slides]()
+  3. Efficient image processing with Python: scikit-image, opencv or SimpleITK? [slides]()
   
   4. Manage your data in standard format with Python: PANDAS, h5py [slides]()
   
