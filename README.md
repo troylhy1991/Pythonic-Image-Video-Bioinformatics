@@ -18,24 +18,24 @@ Make you fall in love with Python!
   3. TIMING 2 project: [project links](https://github.com/troylhy1991/TIMING2)
 
 ## Topics and Slides
-  1.Introduction to Python, Anaconda, Spyder and basic python syntax [Slides]() 
+  1. Introduction to Python, Anaconda, Spyder and basic python syntax [Slides]() 
 
-  2.Common Python packages, os, system, numpy and scipy [Slides]()
+  2. Common Python packages, os, system, numpy and scipy [Slides]()
   
-  3.Efficient image processing with Python, scikit-image, opencv or SimpleITK? [slides]()
+  3. Efficient image processing with Python, scikit-image, opencv or SimpleITK? [slides]()
   
-  4.Manage your data in standard format with Python: PANDAS, h5py [slides]()
+  4. Manage your data in standard format with Python: PANDAS, h5py [slides]()
   
-  5.Data Visaulization with Python: matplotlib, seaborn and yellowbrick [slides]()
+  5. Data Visaulization with Python: matplotlib, seaborn and yellowbrick [slides]()
   
-  6.Machine Learning with Python: scikit-learn [slides]()
+  6. Machine Learning with Python: scikit-learn [slides]()
   
-  7.User-friendly Graphical User Interface(GUI): PyQt [slides]()
+  7. User-friendly Graphical User Interface(GUI): PyQt [slides]()
   
-  8.Deep Learning with Python: tensorflow and Keras [slides]()
+  8. Deep Learning with Python: tensorflow and Keras [slides]()
   
-  9.Multi-threading with Python: multiprocessing [slides]()
+  9. Multi-threading with Python: multiprocessing [slides]()
   
-  10.Design of TIMING-pipeline and TIMING-viewer [slides]()
+  10. Design of TIMING-pipeline and TIMING-viewer [slides]()
 
 
