@@ -21,6 +21,7 @@ Make you fall in love with Python!
 
 ## Topics and Slides
   1. Introduction to Python, Anaconda, Spyder and basic python syntax [Slides]()
+       
        a. Python Official Site [links](https://www.python.org/)
        
        b. Anaconda [Anaconda Home Page](), [11 mins video tutorial](https://www.youtube.com/watch?v=YJC6ldI3hWk)
