@@ -30,7 +30,15 @@ Make you fall in love with Python!
        
        d. Visualize python code step by step [PythonTutor](http://pythontutor.com/)
 
-  2. Common Python packages: os, system, numpy and scipy [Slides]()
+  2. Common Python packages: os, system, numpy and scipy.
+  
+      a. os package [link](https://www.tutorialspoint.com/python/os_file_methods.htm), pay attention to: os.listdir, os.mkdir, os.system;
+      
+      b. sys package [link](https://www.python-course.eu/sys_module.php), pay attention to: sys.argv;
+      
+      c. numpy package [link](http://cs231n.github.io/python-numpy-tutorial/);
+      
+      d. scipy package [link](https://www.tutorialspoint.com/scipy/index.htm);
   
   3. Efficient image processing with Python: scikit-image, opencv or SimpleITK? [slides]()
   
