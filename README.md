@@ -40,7 +40,7 @@ Make you fall in love with Python!
       
         d. scipy package [link](https://www.tutorialspoint.com/scipy/index.htm);
   
-  3. Efficient image processing with Python: scikit-image, opencv or SimpleITK? [slides]()
+  3. Efficient image processing with Python: scikit-image, opencv or SimpleITK? [slides](https://github.com/troylhy1991/Pythonic-Image-Video-Bioinformatics/tree/master/slides) [sample code](https://github.com/troylhy1991/Pythonic-Image-Video-Bioinformatics/tree/master/samples/No3)
   
   4. Manage your data in standard format with Python: PANDAS, h5py [slides]()
   
