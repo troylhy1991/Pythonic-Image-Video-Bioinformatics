@@ -1,0 +1,19 @@
+from skimage import data, exposure, img_as_float
+import matplotlib.pyplot as plt
+
+image = img_as_float(data.camera())
+hi = exposure.histogram(image)
+cdf = exposure.cumulative_distribution(image)
+
+plt.figure(1)
+
+plt.subplot(1,2,1)
+plt.imshow(image)
+
+plt.subplot(1,2,2)
+plt.hist(hi)
+plt.hold(True)
+plt.plt(cdf)
+plt.hold(false)
+
+plt.show()
