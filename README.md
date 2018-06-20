@@ -42,7 +42,7 @@ Make you fall in love with Python!
   
   3. Efficient image processing with Python: scikit-image, opencv or SimpleITK? [slides](https://github.com/troylhy1991/Pythonic-Image-Video-Bioinformatics/tree/master/slides), [code](https://github.com/troylhy1991/Pythonic-Image-Video-Bioinformatics/tree/master/samples/No3)
   
-  4. Manage your data in standard format with Python: PANDAS [slides](https://web.stanford.edu/~jacobp2/src/materials/lec/lecture6.pdf)
+  4. Manage your data in standard format with Python: PANDAS [slides](https://web.stanford.edu/~jacobp2/src/materials/lec/lecture6.pdf) [ipynb](https://web.stanford.edu/~jacobp2/src/materials/nb/Lecture6.ipynb) [iris.csv](https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv)
   
   5. Data Visaulization with Python: matplotlib, seaborn and yellowbrick [slides]()
   
