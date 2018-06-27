@@ -44,11 +44,11 @@ Make you fall in love with Python!
   
   4. Manage your data in standard format with Python: PANDAS [slides](https://web.stanford.edu/~jacobp2/src/materials/lec/lecture6.pdf) [ipynb](https://web.stanford.edu/~jacobp2/src/materials/nb/Lecture6.ipynb) [iris.csv](https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv)
   
-  5. Data Visaulization with Python: matplotlib, seaborn and yellowbrick [slides]()
+  5. User-friendly Graphical User Interface(GUI): PyQt [slides](https://datamastery.github.io/slides/pyqt-guis.pdf), [demo](http://zetcode.com/gui/pyqt4/)
   
   6. Machine Learning with Python: scikit-learn [slides]()
   
-  7. User-friendly Graphical User Interface(GUI): PyQt [slides]()
+  7. Data Visaulization with Python: matplotlib, seaborn and yellowbrick [slides]()
   
   8. Deep Learning with Python: tensorflow and Keras [slides]()
   
